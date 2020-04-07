@@ -1,0 +1,3 @@
+* docker-pgbouncer
+
+A minimal (~13MB) image for pgbouncer *not* based on musl/alpine, but glibc.  Only slightly bigger than comparable alpine images.
